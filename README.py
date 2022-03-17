@@ -1,3 +1,4 @@
+#калькулятор Егор и Ильдар)
 a = int(input())
 b = int(input())
 c = str(input())
